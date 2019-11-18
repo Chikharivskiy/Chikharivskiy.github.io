@@ -44,6 +44,10 @@ header{
 .header-button:hover{
 	box-shadow: none;
 }
+.header-button:hover{
+	color: #072b6f;
+	text-decoration: none;
+}
 header small{
 	font-size: 17px;
 	display: block;
@@ -149,6 +153,10 @@ footer{
 .footer-button:hover{
 	background-color: #fff;
 	color: #3a7dfd;
+}
+.footer-button:hover{
+	color: #fff;
+	text-decoration: none;
 }
 @media (max-width: 1200px){
 	.header-pretitle{
